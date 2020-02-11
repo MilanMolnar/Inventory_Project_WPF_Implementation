@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lugos\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lugos\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_InvProj.662224872.00" t="ExcludeRecursive" />
+    <e p="C:\Users\lugos\Desktop\Új mappa\InvProj" t="IncludeFlat">
+      <e p="InvProj" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookProduct.cs" t="Include" />
+        <e p="Bootstrapper.cs" t="Include" />
+        <e p="CdProduct.cs" t="Include" />
+        <e p="InvProj.csproj" t="IncludeRecursive" />
+        <e p="IStorageCapable.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="ProductModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PersistentStore.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Singleton.cs" t="Include" />
+        <e p="Store.cs" t="Include" />
+        <e p="StoreManager.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="AddBookViewModel.cs" t="Include" />
+          <e p="AddCdViewModel.cs" t="Include" />
+          <e p="ListProductsViewModel.cs" t="Include" />
+          <e p="ShellViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="AddBookView.xaml" t="Include" />
+          <e p="AddBookView.xaml.cs" t="Include" />
+          <e p="AddCdView.xaml" t="Include" />
+          <e p="AddCdView.xaml.cs" t="Include" />
+          <e p="ListProductsView.xaml" t="Include" />
+          <e p="ListProductsView.xaml.cs" t="Include" />
+          <e p="ShellView.xaml" t="Include" />
+          <e p="ShellView.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="InvProj.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
