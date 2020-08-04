@@ -49,6 +49,12 @@ namespace InvProj.ViewModels
             MessageBox.Show("State saved to MyDocuments, as a csv document");
         }
 
+        public void Clear()
+        {
+            ShellViewModel.ps.ClearProducts();
+            AllProduct = new BindableCollection<Product>(ShellViewModel.ps.GetAllProduct());
+        }
+
         public void LoadFromXml()
         {
             ShellViewModel.ps.ClearProducts();
